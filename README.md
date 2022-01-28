@@ -1,0 +1,1 @@
+This project is a breakout game using JS & HTML/CSS.
